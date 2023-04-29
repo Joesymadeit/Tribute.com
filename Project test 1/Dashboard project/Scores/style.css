@@ -1,0 +1,91 @@
+*{
+    margin: 7px;
+    padding: 7px;
+    box-sizing: border-box;
+    font-family: 'poppins' sans-serif;
+}
+body{
+    min-height: 180vh;
+    background-image: url(../Create_account/Green.png);
+    padding: 20px;
+}
+.all{
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    border-radius: 12px;
+
+}
+.head{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: solid #000000;
+    border-radius: 8px;
+    background-image: url(../Dashboard_list/wengang-zhai-MJ_0PxIuquI-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.div1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: solid #000000;
+    border-radius: 8px;
+    background-image: url(../Dashboard_list/wengang-zhai-MJ_0PxIuquI-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.div2{
+     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: solid #000000;
+    border-radius: 8px;
+    background-image: url(../Dashboard_list/wengang-zhai-MJ_0PxIuquI-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.div3{
+     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: solid #000000;
+    border-radius: 8px;
+    background-image: url(../Dashboard_list/wengang-zhai-MJ_0PxIuquI-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.div4{
+     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: solid #000000;
+    border-radius: 8px;
+    background-image: url(../Dashboard_list/wengang-zhai-MJ_0PxIuquI-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.div5{
+     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: solid #000000;
+    border-radius: 8px;
+    background-image: url(../Dashboard_list/wengang-zhai-MJ_0PxIuquI-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+}
+ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+span{
+     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: solid #000000;
+    border-radius: 8px;
+    background: #333232c7;
+}
