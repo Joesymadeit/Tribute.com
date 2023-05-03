@@ -56,6 +56,76 @@ h3{
     border-radius: 8px;
     overflow: hidden;
 }
+.box::before{
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width:600px;
+    height:420px;
+    background: linear-gradient(0deg,transparent,
+    transparent,#4de94d,#4de94d,#4de94d);
+    z-index: 1;
+    transform-origin:bottom right;
+    animation: animate 6s linear infinite;
+}
+.box::after{
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width:600px;
+    height:420px;
+    background: linear-gradient(0deg,transparent,
+    transparent,#4de94d,#4de94d,#4de94d);
+    z-index: 1;
+    transform-origin:bottom right;
+    animation: animate 6s linear infinite;
+}
+.box::after{
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width:600px;
+    height:420px;
+    background: linear-gradient(0deg,transparent,
+    transparent,#4de94d,#4de94d,#4de94d);
+    z-index: 1;
+    transform-origin:bottom right;
+    animation: animate 6s linear infinite;
+    animation-delay: -3s;
+}
+.borderline{
+    position: absolute;
+    top: 0;
+    insert:0;
+}
+.borderline::before{
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width:380px;
+    height:420px;
+    background: linear-gradient(0deg,transparent,
+    transparent,#e67920,#e67920,#e67920);
+    z-index: 1;
+    transform-origin:bottom right;
+    animation: animate 6s linear infinite;
+    animation-delay: -1s;
+}
+@keyframes  animate{
+    0%
+    {
+        transform: rotate(0deg);
+    }
+    100%
+    {
+        transform: rotate(360deg);
+    }
+
+}
 .box form{
     position: absolute;
     inset: 4px;

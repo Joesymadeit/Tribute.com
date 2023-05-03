@@ -5,7 +5,7 @@
     font-family: 'poppins' sans-serif;
 }
 body{
-    min-height: 180vh;
+    min-height: 140vh;
     background-image: url(../Create_account/Green.png);
     background-size: cover;
     background-position: center;
@@ -21,13 +21,19 @@ body{
     border-radius: 12px;
 
 }
+.yyy{
+    height: 900px;
+    background:black;
+    overflow: scroll;
+}
 .first{
     display: flex;
     justify-content: space-between;
     align-items: center;
     border: solid #000000;
     border-radius: 8px;
-    background-image: url(./wengang-zhai-MJ_0PxIuquI-unsplash.jpg);
+    background: #4c943c;
+    /* background-image: url(./wengang-zhai-MJ_0PxIuquI-unsplash.jpg); */
     background-size: cover;
     background-position: center;
 }
@@ -37,7 +43,8 @@ body{
     align-items: center;
     border: solid #000000;
     border-radius: 8px;
-    background-image: url(./wengang-zhai-MJ_0PxIuquI-unsplash.jpg);
+    background: #4c943c;
+    /* background-image: url(./wengang-zhai-MJ_0PxIuquI-unsplash.jpg); */
     background-size: cover;
     background-position: center;
 }
@@ -47,7 +54,8 @@ body{
     align-items: center;
     border: solid #000000;
     border-radius: 8px;
-    background-image: url(./wengang-zhai-MJ_0PxIuquI-unsplash.jpg);
+    background: #4c943c;
+    /* background-image: url(./wengang-zhai-MJ_0PxIuquI-unsplash.jpg); */
     background-size: cover;
     background-position: center;
 }
@@ -57,7 +65,8 @@ body{
     align-items: center;
     border: solid #000000;
     border-radius: 8px;
-    background-image: url(./wengang-zhai-MJ_0PxIuquI-unsplash.jpg);
+    background: #4c943c;
+    /* background-image: url(./wengang-zhai-MJ_0PxIuquI-unsplash.jpg); */
     background-size: cover;
     background-position: center;
 }
@@ -67,7 +76,8 @@ body{
     align-items: center;
     border: solid #000000;
     border-radius: 8px;
-    background-image: url(./wengang-zhai-MJ_0PxIuquI-unsplash.jpg);
+    background: #4c943c;
+    /* background-image: url(./wengang-zhai-MJ_0PxIuquI-unsplash.jpg); */
     background-size: cover;
     background-position: center;
 }
@@ -77,7 +87,8 @@ body{
     align-items: center;
     border: solid #000000;
     border-radius: 8px;
-    background-image: url(./wengang-zhai-MJ_0PxIuquI-unsplash.jpg);
+    background: #4c943c;
+    /* background-image: url(./wengang-zhai-MJ_0PxIuquI-unsplash.jpg); */
     background-size: cover;
     background-position: center;
 }
@@ -87,7 +98,8 @@ body{
     align-items: center;
     border: solid #000000;
     border-radius: 8px;
-    background-image: url(./wengang-zhai-MJ_0PxIuquI-unsplash.jpg);
+    background: #4c943c;
+    /* background-image: url(./wengang-zhai-MJ_0PxIuquI-unsplash.jpg); */
     background-size: cover;
     background-position: center;
 }
@@ -96,7 +108,8 @@ body{
     justify-content: space-between;
     align-items: center;
     border: solid #000000;
-    background-image: url(./wengang-zhai-MJ_0PxIuquI-unsplash.jpg);
+    background: #4c943c;
+    /* background-image: url(./wengang-zhai-MJ_0PxIuquI-unsplash.jpg); */
     background-size: cover;
     background-position: center;
 }
@@ -106,7 +119,8 @@ body{
     align-items: center;
     border: solid #000000;
     border-radius: 8px;
-    background-image: url(./wengang-zhai-MJ_0PxIuquI-unsplash.jpg);
+    background: #4c943c;
+    /* background-image: url(./wengang-zhai-MJ_0PxIuquI-unsplash.jpg); */
     background-size: cover;
     background-position: center;
 }
@@ -116,15 +130,16 @@ body{
     align-items: center;
     border: solid #000000;
     border-radius: 8px;
-    background-image: url(./wengang-zhai-MJ_0PxIuquI-unsplash.jpg);
+    background: #4c943c;
+    /* background-image: url(./wengang-zhai-MJ_0PxIuquI-unsplash.jpg); */
     background-size: cover;
     background-position: center;
 }
 li{
     color:  #000000;
-    font-size: 0.5cm;
+    font-size: 0.7cm;
 }
 span{
     color:  #000000;
-    font-size: 0.5cm;
+    font-size: 0.7cm;
 }
